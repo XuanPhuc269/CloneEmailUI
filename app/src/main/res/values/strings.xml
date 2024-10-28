@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CloneEmailUI</string>
+    <string name="email_icon">Email icon</string>
+    <string name="add_email">Add Email</string>
+</resources>
